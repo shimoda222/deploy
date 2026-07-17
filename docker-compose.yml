@@ -1,6 +1,6 @@
 version: '3'
 services:
   nginx:
-    image: shimoda222/docker-cicd:202607171042
+    image: shimoda222/docker-cicd:202607171127
     ports:
       - "8080:80"
